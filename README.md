@@ -1,1 +1,1 @@
-# sdex-landpage-frontend
+This is the landingspage of Amundy.
